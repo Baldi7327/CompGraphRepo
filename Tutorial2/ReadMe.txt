@@ -1,0 +1,1 @@
+This tutorial we covered making shader in assocation with textures, through both code and shadergraph.
