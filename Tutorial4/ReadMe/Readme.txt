@@ -1,0 +1,2 @@
+This submission contains a simple project where i have written a script to switch between the 3 shaders assigned materials by clicking 1,2 and 3
+respectively. The object starts on another generic shader we made in the tutorial to make it clear when an input has been recieved for the first time. 
