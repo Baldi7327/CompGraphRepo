@@ -1,0 +1,5 @@
+The first shader seems to allow scaling of textures in engine over and object, while also reating a ripple effect in the texture.
+The first shadow shader was a simple shader that creates a shadow but is unnafected by other world geometry.
+The second shadow shader appears to allow for shadows to be cast while being affected by world geometry, for example a cube shaped shadow would be cast on the object if its above the object with the shader.
+The first wader shader creates a simple wave effect using a sine wave pattern, making it looks like ocnstant flowing waves.
+The second water effect makes the water move along the surface of the object to make it seem like the water is flowing.
